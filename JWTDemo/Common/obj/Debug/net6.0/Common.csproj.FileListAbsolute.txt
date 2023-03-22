@@ -1,0 +1,12 @@
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\bin\Debug\net6.0\Common.deps.json
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\bin\Debug\net6.0\Common.dll
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\bin\Debug\net6.0\Common.pdb
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\obj\Debug\net6.0\Common.dll
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\obj\Debug\net6.0\refint\Common.dll
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\obj\Debug\net6.0\Common.pdb
+D:\MySelfCode\C#Code\JWT\JWTDemo\Common\obj\Debug\net6.0\ref\Common.dll
